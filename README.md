@@ -41,6 +41,8 @@ First add the following settings to `settings.xml`:
 You can get a Github token by following the [docs](https://help.github.com/articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization/).
 
 Then run:
+    
+    mvn clean package 
 
     mvn github-release:release
 
