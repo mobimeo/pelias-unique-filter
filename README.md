@@ -6,7 +6,7 @@ Currently, this plugin exists to provide this [fix](https://github.com/elastic/e
 
 ## ElasticSearch version support
 
-This plugin is compatible with ES 6.4.2.
+This plugin is compatible with ES 6.4.*.
 
 ## Build
 
