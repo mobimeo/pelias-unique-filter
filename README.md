@@ -2,11 +2,11 @@
 
 Adapted from the official Elasticsearch [Unique Token Filter](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-unique-tokenfilter.html).
 
-Currently, this plugin exists to provide this [fix](https://github.com/elastic/elasticsearch/pull/35420) in ES 6.6.2. 
+Currently, this plugin exists to provide this [fix](https://github.com/elastic/elasticsearch/pull/35420) in ES 7.8.1. 
 
 ## ElasticSearch version support
 
-This plugin is compatible with ES 6.6.2.
+This plugin is compatible with ES 7.8.1.
 
 ## Build
 
